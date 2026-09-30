@@ -5,34 +5,43 @@
 </p>
 
 <p align="center">
-  <b>Fullstack Developer • RPL Student • Tech Enthusiast</b>
+  <strong>Fullstack Developer • RPL Student • Tech Enthusiast</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Vinzz-student">
-    <img src="https://img.shields.io/github/followers/Vinzz-student?label=Followers&style=for-the-badge&color=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Vinzz-student&label=Profile%20Views&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Vinzz-student&label=PROFILE%20VIEWS&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **10th-grade Software Engineering (RPL) student** from **Kediri, Indonesia**, who enjoys building things with technology and learning how systems work behind the scenes.
+I'm **Reynando Andre Alviano**, a **10th-grade Software Engineering (RPL) student** from **Kediri, Indonesia**.
 
-I spend most of my time experimenting with:
+I'm interested in technology, software development, system exploration, and building things from scratch. I enjoy learning not only how to write code, but also how different parts of a system communicate and work together.
 
-* 🌐 Building **web applications & fullstack projects**
-* ⚛️ Developing interfaces with **React + Vite**
-* 🟢 Creating backend services with **Node.js & Express**
-* 🗄️ Designing and managing **MySQL databases**
-* 🐧 Exploring **Linux, especially Kali Linux**
-* 🔧 Learning **server, deployment, and system configuration**
-* 💻 Working with **JavaScript & TypeScript**
-* 🎨 Exploring **UI/UX and modern web interfaces**
-* 🔌 Experimenting with **Arduino, electronics & IoT**
-* 🛠️ Troubleshooting hardware, software, and development environments
+```text
+┌────────────────────────────────────────────────────────────┐
+│  Reynando Andre Alviano                                    │
+│                                                            │
+│  🎓  Software Engineering Student                          │
+│  💻  Fullstack Developer                                   │
+│  📍  Kediri, Indonesia                                     │
+│  ⚡  6+ Months Development Experience                      │
+│                                                            │
+│  Focus                                                     │
+│  ├── Fullstack Web Development                             │
+│  ├── Backend & REST API                                    │
+│  ├── Database & SQL                                        │
+│  ├── Linux & System                                        │
+│  ├── DevOps & Deployment                                   │
+│  └── Arduino & IoT                                         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
 > 🚀 I don't just want to learn how to code — I want to understand how the whole system works.
 
@@ -40,34 +49,64 @@ I spend most of my time experimenting with:
 
 ## ⚡ What I Do
 
+### 🌐 Fullstack Development
+
+I build web applications from the frontend to the backend, working with APIs, databases, authentication, CRUD systems, dashboards, and responsive interfaces.
+
+### ⚛️ Frontend Development
+
+My current frontend focus is **React + Vite**, where I enjoy building interactive interfaces and experimenting with modern UI patterns.
+
+### 🖥️ Backend Development
+
+I work with **Node.js and Express** to build backend services, REST APIs, database integrations, and application logic.
+
+### 🗄️ Database
+
+I frequently work with **MySQL and SQL**, including:
+
+* Database design
+* CRUD operations
+* Primary Keys
+* Foreign Keys
+* Table relationships
+* JOIN queries
+* Data management
+
+### 🐧 Linux & System
+
+I use Linux as part of my development and experimentation environment.
+
+Things I often explore:
+
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    WHAT I LIKE TO DO                      │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🌐 Web Development                                      │
-│     └─ Build responsive & interactive web applications  │
-│                                                          │
-│  ⚛️ Frontend Development                                 │
-│     └─ React • Vite • Tailwind CSS                      │
-│                                                          │
-│  🖥️ Backend Development                                  │
-│     └─ Node.js • Express • REST API                     │
-│                                                          │
-│  🗄️ Database                                             │
-│     └─ MySQL • SQL • Database Relationships             │
-│                                                          │
-│  🐧 Linux & System                                       │
-│     └─ Kali Linux • CLI • System Configuration          │
-│                                                          │
-│  🔌 Hardware & IoT                                       │
-│     └─ Arduino • LED Matrix • Electronics               │
-│                                                          │
-│  🧪 Experimentation                                      │
-│     └─ Build • Break • Debug • Learn • Repeat            │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+Linux
+ ├── Terminal / CLI
+ ├── Package Management
+ ├── Services & Processes
+ ├── System Configuration
+ ├── Networking
+ ├── Development Environment
+ └── Troubleshooting
 ```
+
+### 🔧 DevOps & Deployment
+
+I'm also interested in what happens after an application is built — from configuring environments and servers to deploying applications and troubleshooting issues.
+
+### 🔌 Hardware & IoT
+
+My interest isn't limited to software.
+
+I also experiment with:
+
+* Arduino
+* LED Matrix
+* Microcontrollers
+* Sensors & switches
+* Battery & power systems
+* Basic electronics
+* IoT projects
 
 ---
 
@@ -76,175 +115,190 @@ I spend most of my time experimenting with:
 ### 💻 Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45"/>
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45"/>
 </p>
 
 ### 🖥️ Backend & Database
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45"/>
 </p>
 
 ### 🔧 Tools & Environment
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="45"/>
 </p>
 
 ---
 
-## 🚀 Currently Learning
+## 🧩 What I Like Working With
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web
 
 ```text
-Frontend
-████████████████████░░  React / Vite
-
-Backend
-██████████████████░░░░  Node.js / Express
-
-Database
-██████████████████░░░░  MySQL / SQL
-
-Linux
-████████████████░░░░░░  Linux / CLI / System
-
-DevOps
-████████████░░░░░░░░░░  Deployment / Server
-
-IoT
-██████████░░░░░░░░░░░░  Arduino / Electronics
-```
-
----
-
-## 🔥 Things I Enjoy Building
-
-### 🌐 Fullstack Web Applications
-
-I enjoy creating applications from the frontend to the backend, including:
-
-* Authentication & authorization
-* REST API
-* CRUD systems
-* Database relationships
-* Dashboard & admin panels
-* Responsive UI
-* API integration
-
-### 🗄️ Database Projects
-
-I like working with relational databases and understanding how data flows between applications.
-
-```text
-Frontend
-   ↓
+React
+Vite
+Tailwind CSS
+Node.js
+Express
 REST API
-   ↓
-Backend
-   ↓
 MySQL
-   ↓
-Relational Data
 ```
 
-### 🐧 Linux & System Exploration
+</td>
 
-Linux is one of the environments I frequently use for development and experimentation.
+<td width="50%">
 
-Things I often explore:
+### 🐧 System
 
-* Terminal & CLI
-* Package management
-* System configuration
-* Services & processes
-* Networking
-* Development environments
-* Troubleshooting Linux problems
+```text
+Linux
+Kali Linux
+CLI
+Networking
+Server
+Deployment
+Troubleshooting
+```
 
-### 🔌 Hardware & IoT
+</td>
+</tr>
 
-Besides software, I also enjoy experimenting with hardware.
+<tr>
+<td width="50%">
 
-Some things I've worked with:
+### 🗄️ Data
 
-* Arduino
-* LED Matrix
-* Sensors & switches
-* Battery & power systems
-* Basic electronics
-* Microcontroller projects
+```text
+MySQL
+SQL
+CRUD
+JOIN
+Primary Key
+Foreign Key
+Relational Database
+```
 
----
+</td>
 
-## 📂 Featured Projects
+<td width="50%">
 
-> 🚧 I'm continuously building and improving my projects.
+### 🔌 Hardware
 
-### 🛒 Kasir UMKM
+```text
+Arduino
+LED Matrix
+Microcontroller
+Electronics
+Sensors
+Switches
+IoT
+```
 
-Fullstack cashier application designed to help small businesses manage transactions and products.
-
-**Stack:** Next.js • JavaScript • Database
-
-### 📱 SMK Connect
-
-A social-media-style application for SMK students with user, post, and category relationships.
-
-**Stack:** Node.js • Express • MySQL • HTML • CSS • JavaScript
-
-### 💍 Digital Wedding Invitation
-
-Interactive wedding invitation website with attendance management, QR codes, gallery, countdown, and guest data.
-
-**Stack:** PHP • MySQL • JavaScript • CSS
-
-### 🔌 Arduino LED Sign
-
-An experimental IoT project using Arduino Nano and MAX7219 LED Matrix.
-
-**Stack:** Arduino • C/C++ • Electronics
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 How I Learn
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinzz-student&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzz-student&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</p>
+I'm the type of developer who learns by **building and experimenting**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinzz-student&theme=github-dark-blue&hide_border=true"/>
-</p>
+```text
+       ┌───────────┐
+       │   IDEA    │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   BUILD   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   BREAK   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │  DEBUG    │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │ UNDERSTAND│
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │  IMPROVE  │
+       └─────┬─────┘
+             │
+             └──────────↺
+```
+
+Whether it's a web application, database, Linux configuration, deployment problem, or hardware project — I enjoy figuring out **why something doesn't work and how to fix it**.
 
 ---
 
-## 🧠 My Development Philosophy
+## 📚 Currently Learning
+
+```text
+React / Vite
+████████████████████░░  90%
+
+Node.js / Express
+██████████████████░░░░  80%
+
+MySQL / SQL
+██████████████████░░░░  80%
+
+Linux / CLI
+████████████████░░░░░░  70%
+
+DevOps / Deployment
+████████████░░░░░░░░░░  60%
+
+Arduino / IoT
+██████████░░░░░░░░░░░░  50%
+```
+
+---
+
+## 🧠 Development Mindset
 
 ```javascript
 const developer = {
     name: "Reynando Andre Alviano",
     role: "Fullstack Developer",
-    learning: true,
+    experience: "6+ months",
+
+    interests: [
+        "Web Development",
+        "Backend Development",
+        "Database",
+        "Linux",
+        "DevOps",
+        "IoT"
+    ],
 
     mindset: [
         "Build",
@@ -271,7 +325,7 @@ while (developer.learning) {
   <a href="https://github.com/Vinzz-student">
     <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://instagram.com/rey_fsdev">
+  <a href="https://instagram.com/username_anda">
     <img src="https://img.shields.io/badge/Instagram-@username__anda-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -279,9 +333,13 @@ while (developer.learning) {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinzz-student&label=Profile%20Views&style=flat-square&color=blue"/>
-</p>
 
-<p align="center">
-  <i>“Build things. Break things. Understand how they work.”</i>
+### 💻 Code • 🐧 Linux • 🌐 Web • 🔌 IoT
+
+**Always learning. Always building.**
+
+<br>
+
+<i>"Build things. Break things. Understand how they work."</i> 🚀
+
 </p>
