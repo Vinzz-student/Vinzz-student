@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Reynando Andre Alviano
 
 <p align="center">
-  <img src="https://github.com/Vinzz-student/Vinzz-student/blob/main/profile.jpeg" width="180" alt="Reynando Andre Alviano"/>
+  <img src="https://github.com/Vinzz-student/Vinzz-student/blob/main/profile.jpeg" width="180" alt="Reynando Andre Alviano" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
@@ -134,53 +134,34 @@ I've worked with **Arduino, LED matrices, switches, power systems, and basic ele
 
 ## 🧰 My Toolkit
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
 
-### 🌐 Development
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-React · Vite · Tailwind CSS
-Node.js · Express
-MySQL · REST API
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<td width="50%" align="center">
+<br><br>
 
-### 🖥️ Environment
+<img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zed-Editor-FFFFFF?style=for-the-badge&logo=zedindustries&logoColor=black"/>
 
-Linux · Kali Linux
-Git · GitHub
-Zed · Terminal
+<br><br>
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Hardware-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<tr>
-<td width="50%" align="center">
+</p>
 
-### ⚙️ Engineering
-
-Web Applications
-Backend Services
-Database Integration
-Deployment
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔌 Experimentation
-
-Arduino · C++
-LED Matrix
-Microcontrollers
-Electronics · IoT
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Tools I use to turn ideas into working projects.</i>
+</p>
 
 ---
 
