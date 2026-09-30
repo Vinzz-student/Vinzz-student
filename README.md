@@ -23,7 +23,7 @@ I'm **Reynando Andre Alviano**, a **10th-grade Software Engineering (RPL) studen
 
 I'm interested in software development and enjoy experimenting with different technologies to understand how things work — from building web applications and APIs to configuring Linux systems and working with hardware.
 
-* 💻 **Fullstack Developer** with 6+ months of experience
+* 💻 **Fullstack Developer** with 1+ year of experience
 * ⚛️ Mainly working with **React + Vite**
 * 🖥️ Building backend applications and APIs
 * 🗄️ Working with relational databases
@@ -125,40 +125,34 @@ I've worked with **Arduino, LED matrices, switches, power systems, and basic ele
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45"/>
+  <img src="https://zed.dev/_next/static/media/zed-logo.7f4c7f2f.svg" title="Zed" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="45"/>
 </p>
 
 ---
 
-## 🧩 Areas I Explore
+## 🧰 My Toolkit
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🌐 Web
+### 🌐 Development
 
-React
-Vite
-Tailwind CSS
-Node.js
-Express
-REST API
+React · Vite · Tailwind CSS
+Node.js · Express
+MySQL · REST API
 
 </td>
 
 <td width="50%" align="center">
 
-### 🐧 Systems
+### 🖥️ Environment
 
-Linux
-Kali Linux
-CLI
-Networking
-Server
-Deployment
+Linux · Kali Linux
+Git · GitHub
+Zed · Terminal
 
 </td>
 </tr>
@@ -166,26 +160,23 @@ Deployment
 <tr>
 <td width="50%" align="center">
 
-### 🗄️ Data
+### ⚙️ Engineering
 
-MySQL
-SQL
-Database Design
-API Integration
-Data Management
+Web Applications
+Backend Services
+Database Integration
+Deployment
 
 </td>
 
 <td width="50%" align="center">
 
-### 🔌 Hardware
+### 🔌 Experimentation
 
-Arduino
-C++
+Arduino · C++
 LED Matrix
 Microcontrollers
-Electronics
-IoT
+Electronics · IoT
 
 </td>
 </tr>
@@ -287,8 +278,8 @@ while (developer.learning) {
     <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/username_anda">
-    <img src="https://img.shields.io/badge/Instagram-@username__anda-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/rey_fsdev">
+    <img src="https://img.shields.io/badge/Instagram-@rey_fsdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
