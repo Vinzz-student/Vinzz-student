@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Vinzz-student">
-    <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Vinzz-student&label=PROFILE%20VIEWS&style=for-the-badge&color=blue"/>
 </p>
@@ -21,92 +21,74 @@
 
 I'm **Reynando Andre Alviano**, a **10th-grade Software Engineering (RPL) student** from **Kediri, Indonesia**.
 
-I'm interested in technology, software development, system exploration, and building things from scratch. I enjoy learning not only how to write code, but also how different parts of a system communicate and work together.
+I'm interested in software development and enjoy experimenting with different technologies to understand how things work — from building web applications and APIs to configuring Linux systems and working with hardware.
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│  Reynando Andre Alviano                                    │
-│                                                            │
-│  🎓  Software Engineering Student                          │
-│  💻  Fullstack Developer                                   │
-│  📍  Kediri, Indonesia                                     │
-│  ⚡  6+ Months Development Experience                      │
-│                                                            │
-│  Focus                                                     │
-│  ├── Fullstack Web Development                             │
-│  ├── Backend & REST API                                    │
-│  ├── Database & SQL                                        │
-│  ├── Linux & System                                        │
-│  ├── DevOps & Deployment                                   │
-│  └── Arduino & IoT                                         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+* 💻 **Fullstack Developer** with 6+ months of experience
+* ⚛️ Mainly working with **React + Vite**
+* 🖥️ Building backend applications and APIs
+* 🗄️ Working with relational databases
+* 🐧 Using Linux as my development environment
+* 🔧 Exploring deployment and system configuration
+* 🔌 Experimenting with Arduino and electronics
 
-> 🚀 I don't just want to learn how to code — I want to understand how the whole system works.
+> 🚀 I enjoy building things, experimenting with new technologies, and solving problems along the way.
 
 ---
 
 ## ⚡ What I Do
 
-### 🌐 Fullstack Development
+### 🌐 Web Development
 
-I build web applications from the frontend to the backend, working with APIs, databases, authentication, CRUD systems, dashboards, and responsive interfaces.
+I build modern web applications and enjoy working across both frontend and backend.
 
-### ⚛️ Frontend Development
+My usual workflow involves designing the interface, connecting it to an API, handling application logic, and integrating the database.
 
-My current frontend focus is **React + Vite**, where I enjoy building interactive interfaces and experimenting with modern UI patterns.
+### ⚛️ Frontend
 
-### 🖥️ Backend Development
+My main focus is **React + Vite**.
 
-I work with **Node.js and Express** to build backend services, REST APIs, database integrations, and application logic.
+I enjoy creating:
+
+* Interactive web interfaces
+* Responsive layouts
+* Reusable components
+* Modern UI
+* API-connected applications
+
+### 🖥️ Backend
+
+I work with **Node.js and Express** to build backend services and APIs.
+
+I'm interested in understanding how the frontend, backend, and database communicate as one complete system.
 
 ### 🗄️ Database
 
-I frequently work with **MySQL and SQL**, including:
+I work with **MySQL** for storing and managing application data, mainly alongside my web projects.
 
-* Database design
-* CRUD operations
-* Primary Keys
-* Foreign Keys
-* Table relationships
-* JOIN queries
-* Data management
+### 🐧 Linux
 
-### 🐧 Linux & System
+Linux is also a big part of my daily development environment.
 
-I use Linux as part of my development and experimentation environment.
+I regularly use the terminal for development, package management, configuration, troubleshooting, and experimenting with different system setups.
 
-Things I often explore:
+### 🔧 Deployment & Systems
 
-```text
-Linux
- ├── Terminal / CLI
- ├── Package Management
- ├── Services & Processes
- ├── System Configuration
- ├── Networking
- ├── Development Environment
- └── Troubleshooting
-```
+Besides writing applications, I'm interested in what happens behind the application.
 
-### 🔧 DevOps & Deployment
+I enjoy experimenting with:
 
-I'm also interested in what happens after an application is built — from configuring environments and servers to deploying applications and troubleshooting issues.
+* Server configuration
+* Application deployment
+* Environment setup
+* Networking
+* Linux services
+* Troubleshooting
 
 ### 🔌 Hardware & IoT
 
-My interest isn't limited to software.
+I also like experimenting outside of pure software development.
 
-I also experiment with:
-
-* Arduino
-* LED Matrix
-* Microcontrollers
-* Sensors & switches
-* Battery & power systems
-* Basic electronics
-* IoT projects
+I've worked with **Arduino, LED matrices, switches, power systems, and basic electronics** to build small hardware projects.
 
 ---
 
@@ -119,6 +101,7 @@ I also experiment with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45"/>
 </p>
 
 ### ⚛️ Frontend
@@ -149,73 +132,60 @@ I also experiment with:
 
 ---
 
-## 🧩 What I Like Working With
+## 🧩 Areas I Explore
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🌐 Web
 
-```text
 React
 Vite
 Tailwind CSS
 Node.js
 Express
 REST API
-MySQL
-```
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🐧 System
+### 🐧 Systems
 
-```text
 Linux
 Kali Linux
 CLI
 Networking
 Server
 Deployment
-Troubleshooting
-```
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🗄️ Data
 
-```text
 MySQL
 SQL
-CRUD
-JOIN
-Primary Key
-Foreign Key
-Relational Database
-```
+Database Design
+API Integration
+Data Management
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🔌 Hardware
 
-```text
 Arduino
+C++
 LED Matrix
-Microcontroller
+Microcontrollers
 Electronics
-Sensors
-Switches
 IoT
-```
 
 </td>
 </tr>
@@ -225,88 +195,79 @@ IoT
 
 ## 🧪 How I Learn
 
-I'm the type of developer who learns by **building and experimenting**.
+Most of my learning comes from **actually building things**.
 
 ```text
-       ┌───────────┐
-       │   IDEA    │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   BUILD   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   BREAK   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  DEBUG    │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ UNDERSTAND│
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  IMPROVE  │
-       └─────┬─────┘
-             │
-             └──────────↺
+        💡 IDEA
+           │
+           ▼
+        🔨 BUILD
+           │
+           ▼
+        💥 BREAK
+           │
+           ▼
+        🐛 DEBUG
+           │
+           ▼
+       🧠 UNDERSTAND
+           │
+           ▼
+        ⚙️ IMPROVE
+           │
+           └───────────────↺
 ```
 
-Whether it's a web application, database, Linux configuration, deployment problem, or hardware project — I enjoy figuring out **why something doesn't work and how to fix it**.
+I learn by experimenting with real projects, encountering problems, researching solutions, and trying to understand what's happening instead of simply making something work.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 ```text
-React / Vite
-████████████████████░░  90%
+React & Vite
+████████████████████░░
 
-Node.js / Express
-██████████████████░░░░  80%
+Node.js & Express
+██████████████████░░░░
 
-MySQL / SQL
-██████████████████░░░░  80%
+MySQL
+██████████████████░░░░
 
-Linux / CLI
-████████████████░░░░░░  70%
+Linux & CLI
+████████████████░░░░░░
 
-DevOps / Deployment
-████████████░░░░░░░░░░  60%
+Deployment & Systems
+████████████░░░░░░░░░░
 
-Arduino / IoT
-██████████░░░░░░░░░░░░  50%
+Arduino & IoT
+██████████░░░░░░░░░░░░
 ```
 
 ---
 
-## 🧠 Development Mindset
+## 🧠 Developer Mindset
 
 ```javascript
 const developer = {
     name: "Reynando Andre Alviano",
     role: "Fullstack Developer",
-    experience: "6+ months",
 
     interests: [
         "Web Development",
         "Backend Development",
-        "Database",
         "Linux",
+        "Database",
         "DevOps",
         "IoT"
     ],
 
     mindset: [
         "Build",
-        "Break",
+        "Experiment",
         "Debug",
         "Understand",
-        "Improve",
-        "Repeat"
+        "Improve"
     ]
 };
 
@@ -323,8 +284,9 @@ while (developer.learning) {
 
 <p align="center">
   <a href="https://github.com/Vinzz-student">
-    <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Vinzz--student-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/username_anda">
     <img src="https://img.shields.io/badge/Instagram-@username__anda-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -334,7 +296,7 @@ while (developer.learning) {
 
 <p align="center">
 
-### 💻 Code • 🐧 Linux • 🌐 Web • 🔌 IoT
+### 💻 Web • 🐧 Linux • 🔌 IoT • ⚙️ Systems
 
 **Always learning. Always building.**
 
